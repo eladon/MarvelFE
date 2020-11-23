@@ -1,5 +1,5 @@
 import axios from 'axios';
-const url = 'http://localhost:4000/actors';
+const url = 'https://immense-hamlet-61107.herokuapp.com/actors';
 
 export const actorService = {
   getActorsData,
