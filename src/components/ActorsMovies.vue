@@ -31,7 +31,6 @@
         striped
         hover
         :items="items"
-        g
         v-show="!isLoading"
       ></b-table>
     </div>
